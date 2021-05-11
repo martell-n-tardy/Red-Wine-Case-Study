@@ -6,7 +6,7 @@ This case study uses exploratory data analysis (EDA) and regression to predict a
 * Anaconda Prompt
 
 ## Libraries
-Json, Requests, and Pandas 
+NumPy, Pandas, Matplotlib, Seaborn, Statsmodels, Sklearn, and Warnings
 
 ## Case Study Involved
 * Choosing a dependent variable
