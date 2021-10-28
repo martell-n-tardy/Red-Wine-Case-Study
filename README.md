@@ -1,4 +1,4 @@
-# Linear-Regression-Case-Study
+# Red-Wine-Case-Study
 This case study uses exploratory data analysis (EDA) and regression to predict alcohol levels in wine by modeling several linear regression models with varying parameters.
 
 ## Tools and Editors
